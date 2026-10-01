@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧬 Hey there! I'm Steph 👋
+# 🧬 Hey there! I'm Steph 👋🏽
 
 ### Experimental Virology × Computational Biology
 
